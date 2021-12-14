@@ -1,15 +1,10 @@
-# Music on Mood
+# Reminder 
 
-_Music recommendation application based on moods_
-_There are 2 parts to this-_
-_1. Detecting face emotion like Happy, Sad, Angry, etc. Then based on that emotion filter the music._
-_2. Also we can add more features like automatically changing the theme of the website based on your mood, etc._
-
+We often tend to forget imporatnt messages that to be send on a particular day . So the website enable you to automatically send the 
 
 
 >TEAM MEMBERS
 
 1. Eshwari Kashid
-2. Aaditya Patil
-3. Prajakta Barde
-4. Maviya Ali
+2. Prajakta Barde
+
